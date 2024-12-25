@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @J-Godhani03
+- 👀 I’m interested in Data Science & Data Analytics
+- 🌱 I’m currently learning SQL
